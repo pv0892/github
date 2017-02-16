@@ -2,10 +2,11 @@
 $product_description = $_POST ['product_descprition'];
 $list_price=$_POST['list_price'];
 $discount_percent=$_POST['discount_percent'];
-<!DOCTYPE html>
+?>
+<!DOCTYPE html>                            
 <html>
 <head>
-    <title>Product Discount Calculator</title>
+<title>Product Discount Calculator</title>
     <link rel="stylesheet" type="text/css" href="main.css">
 </head>
 <body>
